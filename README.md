@@ -60,7 +60,8 @@ Stored under `additional/` folder
 
 
 ##  Folder Structure
-BOOKS_SCRAPER/
+```
+Books_Scraper/
 |
 ├── additional/                 ←  Analysis and visualization scripts
 │   ├── analyze_books.py
@@ -90,3 +91,4 @@ BOOKS_SCRAPER/
 ├── requirements.txt           ←  All required libraries for setup
 └── scraper_errors.log         ←  Logged errors from the scraping process
 
+```
